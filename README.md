@@ -31,10 +31,6 @@ I’m a full-stack developer and devops engineer who has turned years of freelan
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
