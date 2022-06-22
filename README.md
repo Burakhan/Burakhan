@@ -23,7 +23,7 @@ I’m a full-stack developer and devops engineer who has turned years of freelan
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning golang  
   
